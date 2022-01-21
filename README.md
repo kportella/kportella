@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning React
-- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/kportella">
