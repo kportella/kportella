@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Kauê Portella.
 
 - 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning Python for Data Science
 
 <div>
   <a href="https://github.com/kportella">
