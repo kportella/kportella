@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently working on Back-End
 
-<div>
-  <a href="https://github.com/kportella">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kportella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kportella&layout=compact&langs_count=7&theme=dark"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-Js" height="28" width="124" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Kaue-React" height="28" width="83" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
